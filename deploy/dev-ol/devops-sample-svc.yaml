@@ -5,7 +5,7 @@ metadata:
     app: kubesphere
     component: ks-sample-dev
   name: ks-sample-dev
-  namespace: devops-demo
+  namespace: devops-demotnrsw
 spec:
   ports:
     - name: http
